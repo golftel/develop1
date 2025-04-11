@@ -20,3 +20,4 @@ add task list
 insert button
 add stylesheet
 add javascript file
+connect css and js
